@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2be65c60-ea19-44ac-8b2b-605a0bd7984f" name="Changes" comment="Semana02/ejercicio03">
-      <change afterPath="$PROJECT_DIR$/src/Semana02/Ejercicio04.java" afterDir="false" />
+    <list default="true" id="2be65c60-ea19-44ac-8b2b-605a0bd7984f" name="Changes" comment="Semana02/ejercicio04">
+      <change afterPath="$PROJECT_DIR$/src/Semana02/Ejercicio05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ejercicio04">
+  <component name="RunManager" selected="Application.Ejercicio05">
     <configuration name="Ejercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Semana02.Ejercicio01" />
       <module name="Ejercicios" />
@@ -95,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana03.Ejercicio07" />
+    <configuration name="Ejercicio05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semana02.Ejercicio05" />
       <module name="Ejercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semana03.*" />
+          <option name="PATTERN" value="Semana02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio05" />
         <item itemvalue="Application.Ejercicio04" />
         <item itemvalue="Application.Ejercicio03" />
         <item itemvalue="Application.Ejercicio02" />
         <item itemvalue="Application.Ejercicio01" />
-        <item itemvalue="Application.Ejercicio07" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +128,7 @@
       <updated>1679590495422</updated>
       <workItem from="1679590496720" duration="6030000" />
       <workItem from="1679761421668" duration="20267000" />
-      <workItem from="1680110253850" duration="9024000" />
+      <workItem from="1680110253850" duration="11470000" />
     </task>
     <task id="LOCAL-00001" summary="Segundo commit">
       <created>1679591141163</created>
@@ -200,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680122545312</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Semana02/ejercicio04">
+      <created>1680127491672</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680127491672</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,6 +234,7 @@
     <MESSAGE value="Semana02/ejercicio01" />
     <MESSAGE value="Semana02/ejercicio02" />
     <MESSAGE value="Semana02/ejercicio03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Semana02/ejercicio03" />
+    <MESSAGE value="Semana02/ejercicio04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Semana02/ejercicio04" />
   </component>
 </project>
